@@ -2,17 +2,15 @@
 <h3 align="center">Self-taught web developer living in Chile. Currently I am looking to learn new technologies, thus obtaining new experiences.</h3>
 
 
-- 🔭 I’m currently working on [Covid-19 Tracker](https://github.com/panchoarc/covid19-tracker)
-
 - 🌱 I’m currently learning **Spring boot, MERN Stack.**
 
-- 👯 I’m looking to collaborate on **Projects, Tech Blogs**
+- 👯 I’m looking to collaborate on ** Freelance Projects, Enterprise, Open-Sourced Projects**
 
 - 💬 Ask me about **react, javascript, java.**
 
-- 📫 How to reach me **francisco.rios.cabello@gmail.com**
+- 📫 How to reach me [My email](mailto:francisco.rios.cabello@gmail.com)
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1KjV1exSacmwwmf9ZM_0qDAMEYy39KEAd/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1V_GGY1b-GwJ1H_bzB_BvCAOnujR7kyJu/view)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
