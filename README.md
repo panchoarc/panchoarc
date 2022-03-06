@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring boot, MERN Stack.**
 
-- 👯 I’m looking to collaborate on ** Freelance Projects, Enterprise, Open-Sourced Projects**
+- 👯 I’m looking to collaborate on **Freelance Projects, Enterprise, Open-Sourced Projects**
 
 - 💬 Ask me about **react, javascript, java.**
 
